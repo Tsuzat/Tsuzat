@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Flutter and doing my graduation in Mechanical Engineering.
 - 💞️ I’m always up to collaborate on something innovative and exciting.
 - 📫 email me: aloksingh772002@gmail.com
+- 💻 My Website: https://tsuzat.me
 
 <p>
     <img src = "https://github-readme-stats.vercel.app/api?username=Tsuzat&show_icons=true&theme=radical" />
