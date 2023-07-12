@@ -1,8 +1,7 @@
 ## Hi, I’m Tsuzat 👋
-- 👀 I’m interested in web development, mobile and desktop app development.
+- 👀 I’m interested in web development, mobile, and desktop app development.
 - 🌱 I’m currently learning Rust and doing my graduation in Mechanical Engineering.
 - 💞️ I’m always up to collaborate on something innovative and exciting.
-- 💻 My Website: https://tsuzat.me
 
 <p>
     <img src = "https://github-readme-stats.vercel.app/api?username=Tsuzat&show_icons=true&theme=radical" />
