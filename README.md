@@ -1,6 +1,6 @@
 ## Hi, I’m Tsuzat 👋
 - 👀 I’m interested in web development, mobile, and desktop app development.
-- 🌱 I’m currently learning Svelte and Spring Boot.
+- 🌱 I’m currently learning Svelte and Tauri.
 - 💞️ I’m always up to collaborate on something innovative and exciting.
 
 <p>
