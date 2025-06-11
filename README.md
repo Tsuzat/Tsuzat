@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Svelte, Swift and Tauri.
 - 💞️ I’m always up to collaborate on something innovative and exciting.
 - 🔨 Created Edra, best rich text editor for your project with Svelte(Kit) and Tiptap.
+- 👷🏽 Building [KanFlow](https://www.kanflow.pro) Collaborate and manage projects with ease
 
 <p>
     <img src = "https://github-readme-stats.vercel.app/api?username=Tsuzat&show_icons=true&theme=radical" />
